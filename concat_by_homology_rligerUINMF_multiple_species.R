@@ -2,7 +2,6 @@
 
 ##########
 ## concatenate anndata object by homology for LIGER UINMF pipeline
-## ysong@ebi.ac.uk for CrossSpeciesIntegration pipeline
 #########
 
 # © EMBL-European Bioinformatics Institute, 2023
