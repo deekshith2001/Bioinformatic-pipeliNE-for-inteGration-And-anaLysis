@@ -2,11 +2,11 @@
 
 ##########
 ## concatenate anndata object by homology
-## ysong@ebi.ac.uk for CrossSpeciesIntegration pipeline
+## CrossSpeciesIntegration pipeline
 #########
 
 # © EMBL-European Bioinformatics Institute, 2023
-# Yuyao Song <ysong@ebi.ac.uk>
+
 
 library(optparse)
 library(anndata)
