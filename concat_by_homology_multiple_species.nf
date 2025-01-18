@@ -2,10 +2,6 @@
 nextflow.enable.dsl=2
 
 // © EMBL-European Bioinformatics Institute, 2023
-// Updated upon containerization of BENGAL envs
-// Yuyao Song <ysong@ebi.ac.uk>
-// Oct 2023
-
 // data requirements: batch_key, species_key, sample_key, mapped in config file, present in adata.obs
 // data requirements: mean_count in adata.var from scanpy QC
 // raw h5ad file naming: <species>
