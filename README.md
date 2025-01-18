@@ -1,4 +1,4 @@
-# BENGAL: BENchmarking strateGies for cross-species integrAtion of singLe-cell RNA sequencing data
+# BENchmarking strateGies for cross-species integrAtion of singLe-cell RNA sequencing data
 
 BENGAL is a comprehensive Nextflow DSL2 pipeline designed for cross-species single-cell RNA-seq data integration and evaluation of integration results. This pipeline offers a streamlined and efficient approach to process, integrate, and analyze datasets from multiple species.
 
