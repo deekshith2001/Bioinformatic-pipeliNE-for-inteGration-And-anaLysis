@@ -1,8 +1,5 @@
 # /usr/bin/env R
 
-# © EMBL-European Bioinformatics Institute, 2023
-# Yuyao Song <ysong@ebi.ac.uk>
-
 library(optparse)
 library(Seurat)
 library(SeuratWrappers)
