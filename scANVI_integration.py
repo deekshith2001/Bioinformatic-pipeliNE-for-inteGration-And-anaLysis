@@ -1,7 +1,7 @@
 #/usr/bin/env python3
 
 # © EMBL-European Bioinformatics Institute, 2023
-# Yuyao Song <ysong@ebi.ac.uk>
+
 
 
 import click
